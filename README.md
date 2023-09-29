@@ -16,13 +16,32 @@ Welcome to the Full Stack Developer Job Placement Preparation repository! This r
 
 In this section, you'll find resources to help you prepare for the initial screening round, which often includes Data Structures and Algorithms (DSA) and programming-related multiple-choice questions (MCQs).
 
-- [**Link to Resources**](/round-1)
+ [**Link to Resources**](/round-1)
 
+- [**OOPS**] :    [InterviewBits](https://www.interviewbit.com/oops-mcq/) |[JavaPoint](https://www.javatpoint.com/oops-mcq) |[GFG](https://www.geeksforgeeks.org/oop-concepts-gq/)
+- [**DSA**] :     [InterviewBits](https://www.interviewbit.com/data-structure-mcq/) |[javaPoint](https://www.javatpoint.com/data-structure-mcq) |[GFG](https://www.geeksforgeeks.org/top-50-data-structures-mcqs-with-answers/)
+- [**C++**] :    [InterviewBits](https://www.interviewbit.com/cpp-mcq/) |[JavaPoint](https://www.javatpoint.com/cpp-mcq) | [GFG](https://www.geeksforgeeks.org/c-programming-multiple-choice-questions/)
+- [**DBMS**]:     [InterviewBits](https://www.interviewbit.com/rdbms-mcq/) |[JavaPoint](https://www.javatpoint.com/dbms-mcq) |[GFG](https://www.geeksforgeeks.org/50-dbms-mcqs-with-answers/)
+ 
 ## Round 2: Aptitude Test
 
 Aptitude tests are commonly used to assess your problem-solving skills and logical reasoning. Here, you'll find resources to sharpen your aptitude skills.
 
-- [**Link to Resources**](/round-2)
+[**Link to Resources**](/round-2)
+ <!--- 
+Online Aptitude and Reasoning Websites:
+
+IndiaBIX: This website offers a wide range of aptitude and reasoning questions with solutions.
+TestPot: Provides free aptitude and reasoning tests along with detailed explanations.
+AptitudeTest.com: Offers various practice tests and tips for improving your aptitude skills.
+Indiabix.com: Another popular website with a vast collection of aptitude and reasoning questions.
+
+For YouTube:
+
+Search for keywords like "Aptitude and Reasoning Preparation."
+Include specific topics you want to study, such as "Quantitative Aptitude," "Logical Reasoning," or "Verbal Reasoning."
+Look for channels from reputable educators and organizations that offer tutorials and practice questions.
+-->
 
 ## Round 3: Coding Round
 
